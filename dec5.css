@@ -1,0 +1,38 @@
+.a,
+.b,
+.c,
+.d {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    width: 200px;
+    height: 140px;
+    display: inline-block;
+}
+
+.e,
+.f,
+.g,
+.h {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    width: 200px;
+    height: 140px;
+    display: inline-block;
+}
+
+img {
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+}
+
+p {
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+    font-size: 15px;
+    background-color: black;
+    color: lightcyan;
+}
